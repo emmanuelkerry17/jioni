@@ -1,0 +1,45 @@
+body{
+background-color:black;
+    color: white;
+}
+iframe{
+    float: left;
+    -webkit-filter: grayscale(50%);
+}
+
+.tt{
+    float: left;
+    width: 50%;
+}
+.dd{
+    float: right;
+    width: 50%;
+}
+.ff{
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    border-radius: 6px;
+}
+.ffd{
+    background-color: black;
+    color: white;
+}
+.ffd:hover{
+    color: black;
+    animation: ease-in-out;
+    transition: 0.5s;
+    background-color: white;
+
+}.e:hover{
+    color: black;
+    animation:ease-in-out;
+    transition: 0.5s;
+    background-color:white;}
+ .e{
+     background-color: black;
+     color: white;
+     border: white 1px solid;
+     border-radius: 4px;
+     float: right;
+ }

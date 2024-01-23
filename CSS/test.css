@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+    color: white;
+}
+h2{
+    background-color: darkred;
+    text-align: center;
+    border: gold 30px solid;
+}

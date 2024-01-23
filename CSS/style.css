@@ -1,0 +1,40 @@
+body{
+    background-color:honeydew;
+    text-align:left;
+    /*padding: 80px;*/
+    padding-left: 36px;
+}
+a{
+    text-decoration: none;
+    color: black;
+
+}
+p{
+    color: crimson;
+}
+.one{
+    color: darkblue;
+}
+.two{
+    background-color: black;
+    color: white;
+    border:deeppink 20px solid;
+    margin: 50px;
+    padding: 30px;
+    border-radius: 100px;
+    text-align: center;
+    width: 50%;
+    height: 20%;
+}
+a:hover{
+    color: coral;
+    border-bottom: cornflowerblue 2px solid;
+}
+.four:hover{
+    color: dimgrey;
+    border-bottom: darkred 4px solid;
+}
+#one{
+background-color: #a3eab5 ;
+}
+
