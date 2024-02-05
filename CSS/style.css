@@ -26,9 +26,9 @@ p{
     width: 50%;
     height: 20%;
 }
-a:hover{
+a{
     color: coral;
-    border-bottom: cornflowerblue 2px solid;
+    border: green 4px solid;
 }
 .four:hover{
     color: dimgrey;
