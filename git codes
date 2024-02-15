@@ -1,7 +1,7 @@
 git init
 git add.
 git commit -m "message"
-git remote add origin   PRESS ENTER THEN>> [ADD YOUR LINK HERE]
+git remote add origin    [ADD YOUR LINK HERE]  PRESS ENTER 
 git push
 git push --set-upstream origin master
 
